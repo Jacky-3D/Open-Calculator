@@ -3,7 +3,7 @@
 
 
 
-Open Calculator is a 100% free and open source project. You don't need to credit me at all! It's as if I never made it! Feel free to edit, upgrade, downgrade it as you like! Take any snippets of code or all of it! This is as free as it gets. You don't have to credit me, pay royalties, or ANYTHING.
+Open Calculator is a 100% free and open-source project. You don't need to credit me at all! It's as if I never made it! Feel free to edit, upgrade, or downgrade it as you like! Take any snippets of code or all of it! This is as free as it gets. You don't have to credit me, pay royalties, or ANYTHING. This is a fully public domain program.
 
 ## Features
 
